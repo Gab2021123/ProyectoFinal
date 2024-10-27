@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PFinal</string>
+    <string name="google_map_api_key">AIzaSyBrIVe9qtPdU28BnLC8GKJrfvD_2IM0npM</string>
+    <string name="successful_enter">Ingreso exitoso</string>
+    <string name="enter_data">Llene datos para ingresar</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="name">Nombres</string>
+    <string name="lastname">Apellidos</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="logout">Salir</string>
+    <string name="successful_register">Registro exitoso</string>
+    <string name="add_information">Llene datos para registrarse</string>
+
+</resources>

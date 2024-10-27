@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- density -->
+    <dimen name="s5dp">5dp</dimen>
+    <dimen name="s10dp">10dp</dimen>
+    <dimen name="s20dp">20dp</dimen>
+    <dimen name="s25dp">25dp</dimen>
+    <dimen name="s35dp">35dp</dimen>
+    <dimen name="s48dp">48dp</dimen>
+    <dimen name="s105dp">105dp</dimen>
+    <dimen name="s125dp">125dp</dimen>
+    <dimen name="s200dp">200dp</dimen>
+    <dimen name="s250dp">250dp</dimen>
+    <dimen name="s350dp">350dp</dimen>
+
+    <!-- textSize -->
+    <dimen name="s10sp">10sp</dimen>
+    <dimen name="s15sp">15sp</dimen>
+    <dimen name="s20sp">20sp</dimen>
+    <dimen name="s24sp">24sp</dimen>
+    <dimen name="s25sp">25sp</dimen>
+</resources>
